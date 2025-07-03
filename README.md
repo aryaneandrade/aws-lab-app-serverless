@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte das atividades práticas da **Escola da
 
 ## 🧱 Arquitetura da Solução
 
-![Diagrama da Arquitetura](./imagens/arquitetura.png)
+![Diagrama da Arquitetura](./images/arquitetura.png)
 
 ---
 
@@ -41,16 +41,17 @@ Este projeto foi desenvolvido como parte das atividades práticas da **Escola da
 
 ## 🖼️ Capturas de Tela
 
-> Insira as capturas reais dos seguintes momentos:
+### Aplicação Web Operacional no Amazon S3 com Produtos Cadastrados
+  ![Interface Web](./images/interface-web.png)
 
-- Tela da interface web hospedada no S3  
-  ![Interface Web](./imagens/interface-web.png)
+### Visualização dos Registros Persistidos no DynamoDB
+  ![DynamoDB](./images/dynamodb-consulta.png)
 
-- Consulta de dados cadastrados no DynamoDB  
-  ![DynamoDB](./imagens/dynamodb-consulta.png)
+### Implementação da Função Lambda Integrada ao DynamoDB  
+  ![Lambda](./images/lambda.png)
 
-- Log de execução no Amazon CloudWatch  
-  ![CloudWatch Logs](./imagens/cloudwatch-logs.png)
+### Log de execução no Amazon CloudWatch  
+  ![CloudWatch Logs](./images/cloudwatch-logs.png)
 
 ---
 
